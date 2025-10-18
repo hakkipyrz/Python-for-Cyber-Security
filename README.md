@@ -15,5 +15,5 @@ Temel Python Kodları – Eğitim Amaçlı
 
 Bu depo, Python dersi ödevlerimden örnek kodları içermektedir:
 
--Hesap Makinesi
--Adam Asmaca
+- Hesap Makinesi
+- Adam Asmaca
